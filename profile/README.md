@@ -1,13 +1,5 @@
 ## Welcome to HashTrust Technologies Private Limited :wave:
 
-### Table of Contents
-
-1. [About Us](#about-us)
-2. [Services](#services)
-3. [Our Technologies](#our-technologies)
-4. [Why Choose Us](#why-choose-us)
-5. [Get in Touch](#get-in-touch)
-
 ## About Us :information_source:
 
 HashTrust Technologies Private Limited is a leading provider of cutting-edge software development services. With our headquarters in [Delhi, India], we have made a global impact in the software industry. We pride ourselves in taking a client-centric approach and delivering tailor-made solutions to a wide range of industries.
